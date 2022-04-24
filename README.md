@@ -4,7 +4,7 @@
 
 ## About
 
-This is our Mini Project for SC1015. we used the FIFA 19 dataset from Kaggle
+This is our Mini Project for SC1015. we used the [FIFA 19 Dataset from Kaggle](https://www.kaggle.com/datasets/karangadiya/fifa19)
 
 The order of our notebook is: 
 
